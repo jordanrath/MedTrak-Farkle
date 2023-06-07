@@ -19,4 +19,4 @@ Built with JavaScript, HTML, and CSS.
 ●Features a Farkle dice game that will allow multiple users to play versus each other.
 <br>
 ● Themed with CSS using flexbox.
-<br>`
+<br>
